@@ -1,0 +1,19 @@
+body{
+    background-color: #d2dbdc;
+}
+.ticktock-box{
+    text-align: center;
+    width: 100%;
+    margin-top: 30vh;
+    padding: 20px 20px 20px 20px;
+}
+.btn{
+    background-color:#508ABB;
+    width: 30%;
+    margin-bottom: 5px;
+    color: #508ABB;
+    font-size: 24px;
+}
+.btn:hover{
+   color: #508ABB;
+}
